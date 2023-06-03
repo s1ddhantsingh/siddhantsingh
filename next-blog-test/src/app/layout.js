@@ -1,4 +1,4 @@
-import "./globals.css";
+import "./globals.css"; // applies this font to ALL pages in the next application
 import { Inter } from "next/font/google";
 
 const inter = Inter({ subsets: ["latin"] });
