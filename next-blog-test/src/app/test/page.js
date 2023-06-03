@@ -1,5 +1,5 @@
 import React from "react";
-import Test from "./test";
+import Test from "./Test";
 
 const page = () => {
 	return (
